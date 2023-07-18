@@ -9,6 +9,12 @@ The data that I will use come from:
   - A survey made to random potential customers. (sample with size at least 40 people) --> 80 answers gathered in the end.
   - Demographic dataset. This dataset will help to take outputs in the context of the whole spanish population.
 
+SURVEY.
+
+The survey tries to income information from at least 40 people. The survey is oriented to be answered with a random group of people from Spain, which the is the population in  study.
+The sample was taken as arandomly as possible but there are several relations between individuals. 
+The survey gives information about demographics, current information about owning an ebike and intentions to buy one. And also information about reasons to buy and not to buy an ebike, which will be taken into account in order to find potential actions to increase sells.
+
 The df obteined from the survey could be divided in 2 dfs. 
   1. Descriptive data from current market situation. --> descriptive_df
   2. Data useful for potential actions to increase sells. --> predictive_df
