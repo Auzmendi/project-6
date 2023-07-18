@@ -9,3 +9,8 @@ The data that I will use come from:
   - A survey made to random potential customers. (sample with size at least 40 people) --> 80 answers gathered in the end.
   - Demographic dataset. This dataset will help to take outputs in the context of the whole spanish population.
 
+The df obteined from the survey could be divided in 2 dfs. 
+  1. Descriptive data from current market situation. --> descriptive_df
+  2. Data useful for potential actions to increase sells. --> predictive_df
+Of course, some of the columns will be presented in both df.
+
