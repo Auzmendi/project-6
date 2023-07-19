@@ -45,3 +45,15 @@ Just mention that in the sample there is no answers of young woman.
 -----CURRENT OWNERS OF EBIKE-----
 The means showed in this plot are quite lower than potential customer. We can infere that, with that there are chances to make this market field bigger. 
 In this sample the most of the owners are  women. And they come from just 2 range of ages. 
+
+Inferential: 
+
+I will use the following methods.
+  -chi^2Useful in cases where I want to check the independance of 2 categorical
+variables. For example, be a potential customer & age /gender 
+
+  -Confidence intervals: As the sample size is small, I would use confidence intervals
+based on T-Student distribution.
+
+  - Logistic regression: If I want to predict a binary result. f.e: If a potential customer will
+buy an ebike.  
