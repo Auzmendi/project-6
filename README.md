@@ -20,3 +20,40 @@ The df obteined from the survey could be divided in 2 dfs.
   2. Data useful for potential actions to increase sells. --> predictive_df
 Of course, some of the columns will be presented in both df.
 
+
+
+SUM UP OF THE DESCRIPTIVE ANALYSIS:
+
+-----POTENTIAL CUSTOMER LOST-----
+
+"This information represents people who was thinking about buying an ebike but they are not doing it anymore."
+First thing to take into account is that in any case the mean is higher than 20%. with is a low value.
+Apart from that in the table at the botom  of the code we can see that std is much higher than the mean.But in this case the std doesn´t give us a lot of information because
+it is directly related with the mean as the information studied is yes/no type.
+We can see in the plot that women, increases the number of people who is included in this case along with the age.
+However, men get their top value in the range of age 35-45 years. That means men older than this are still potential customers.
+
+-----POTENTIAL CUSTOMER-----
+The size of the sample was 80. Not a suitable size to make this study. That is why things happen, like having 100% of potential customers in Men between 35 & 45 years.
+But, that shows that the number of potential customer with that profile is very high which means that we should focus actions in that group to produce the highest increasing in the sells possible.
+The number of people who is potential customer surprised to me. It is quite high. In the predictive study I will check how to turn these potential customers into real customers.
+
+-----NOT POTENTIAL CUSTOMER-----
+NOt so much to tell about this plot and table because is directly realted with the pot. customers..
+Just mention that in the sample there is no answers of young woman.
+
+-----CURRENT OWNERS OF EBIKE-----
+The means showed in this plot are quite lower than potential customer. We can infere that, with that there are chances to make this market field bigger. 
+In this sample the most of the owners are  women. And they come from just 2 range of ages. 
+
+Inferential: 
+
+I will use the following methods.
+  -chi^2Useful in cases where I want to check the independance of 2 categorical
+variables. For example, be a potential customer & age /gender 
+
+  -Confidence intervals: As the sample size is small, I would use confidence intervals
+based on T-Student distribution.
+
+  - Logistic regression: If I want to predict a binary result. f.e: If a potential customer will
+buy an ebike.  
